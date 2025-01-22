@@ -188,7 +188,7 @@ class Home extends StatelessWidget {
 
             ],
             ),),
-            Positioned(top: 430.h,left: 62.sp,
+            Positioned(top: 425.h,left: 65.sp,
               child: Container(
                 height: 20.h,
                 width: 106.sp,
@@ -202,7 +202,7 @@ class Home extends StatelessWidget {
                   color: AppColor.white90,),
               ),
             ),
-            Positioned(left:25.sp, top: 425.h,
+            Positioned(left:25.sp, top: 415.h,
               child:        Row(
                 children: [
                   Image.asset(AppImages.photo,
